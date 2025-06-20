@@ -1,4 +1,4 @@
-package devgabriel.CadastroDeUsuarios;
+package devgabriel.CadastroDeUsuarios.Usuarios;
 
 import org.springframework.web.bind.annotation.*;
 
